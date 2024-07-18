@@ -1,0 +1,16 @@
+
+.main{
+  /* background: linear-gradient(40deg, #ea00ff, #ea00ff, #03f5ff, #03d5ff); */
+  /* background-color: #06b2bb;
+   */
+   background-color: white;
+   
+
+}
+a{
+  color: #06b2bb;
+}
+.navbar-brand, .nav-link{
+  font-weight: bold;
+  color: #06b2bb;
+}
